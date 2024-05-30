@@ -3,9 +3,6 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <table>
-          <tr>
             <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a></td>
             <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a></td>
             <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a></td>
@@ -23,11 +20,8 @@
             <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" /></a></td>
             <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></a></td>
           </tr>
-        </table>
-      </td>
-      <td>
+      <tr>
         <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matcane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" /></a>
-      </td>
     </tr>
   </table>
 </div>
