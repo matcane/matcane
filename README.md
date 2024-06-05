@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Mateusz Laskowski Frontend Developer</h1>
+<h1 align="center">👋 Hi there! I'm <a href="https://matcane.github.io">Mateusz Laskowski</a></h1>
 
 ###
 
