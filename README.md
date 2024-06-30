@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matcane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matcane&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /></a>
 </div>
 
 ###
