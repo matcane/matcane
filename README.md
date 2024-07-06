@@ -21,7 +21,7 @@
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
   <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /></a>
   <a href="#"><img width="12" /></a>
