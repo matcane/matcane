@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! <a href="https://matcane.github.io">Mateusz Laskowski</a></h1>
+<h1 align="center">Hi there! I'm  Mateusz Laskowski</h1>
 
 ###
 
