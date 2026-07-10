@@ -23,4 +23,4 @@ $ help contact
 ↓ links below
 ```
 
-[matcane.github.io](https://matcane.github.io) · [linkedin](https://www.linkedin.com/in/mateusz-l-16321b310/) · [email](mailto:mat.laskowski.kontakt@gmail.com)
+[portfolio](https://matcane.github.io) · [linkedin](https://www.linkedin.com/in/mateusz-l-16321b310/) · [email](mailto:mat.laskowski.kontakt@gmail.com)
