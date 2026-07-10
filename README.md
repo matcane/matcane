@@ -5,7 +5,7 @@ $ whoami
 Mateusz Laskowski
 
 $ role
-Junior mobile developer · iOS + Android
+Mobile developer · iOS + Android
 
 $ stack --plain
 React Native · TypeScript · Expo
@@ -17,7 +17,7 @@ $ echo $MOTTO
 built · shipped · maintained
 
 $ location && $status
-Warsaw · open to junior mobile roles
+Warsaw · open to mobile roles
 
 $ help contact
 ↓ links below
