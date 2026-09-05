@@ -6,8 +6,8 @@
 <p><strong>10K+</strong> downloads</p>
 
 <p>
-  <strong>Hair Studio</strong>
-  <a href="https://github.com/matcane/hair-studio-showcase">source</a>
+  <strong>Hair Studio</strong>:
+  <a href="https://github.com/matcane/hair-studio-showcase">GitHub</a>,
   <a href="https://apps.apple.com/app/hair-studio-hairstyle-try-on/id6761934608">App Store</a>
 </p>
 <p>
@@ -26,6 +26,6 @@
 
 <p>Warsaw - open to mobile roles</p>
 <p>
-  <a href="https://www.linkedin.com/in/mateusz-l-16321b310/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mateusz-l-16321b310/">LinkedIn</a>,
   <a href="mailto:mat.laskowski.kontakt@gmail.com">Email</a>
 </p>
